@@ -1,1 +1,1 @@
-# Data Science for Social Justice - Summer 2022
+A collection of NLP code for subreddit analaysis
