@@ -1,1 +1,1 @@
-# dsss_summer2022
+# Data Science for Social Justice - Summer 2022
